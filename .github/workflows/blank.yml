@@ -3,7 +3,7 @@ name: Update badges
 on:
   push:
     branches:
-    - master
+    - main
     paths-ignore:
     - README.md
 jobs:

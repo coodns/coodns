@@ -8,7 +8,7 @@
 
 #### Certificate :mortar_board:</br></br>
 
-<a href="https://www.credly.com/earner/earned/badge/268899b8-493f-4316-a31a-2573c5a6b191"><img src="https://user-images.githubusercontent.com/69895368/203920072-95e6f79e-bacb-4290-a1db-cdced5c26ca5.png" width="75" height="75"/></a>
+<a href="https://www.credly.com/earner/earned/badge/268899b8-493f-4316-a31a-2573c5a6b191"><img src="https://github.com/user-attachments/assets/9fc9a3cd-6228-4dfb-92fb-9db58c5eec0e" width="75" height="75"/></a>
 <a href="https://www.credly.com/badges/62e2f7f0-aed7-4c5f-8f93-66bb3f3cdb6d/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="75" height="75"/></a>
 <a href="https://www.credly.com/badges/7ed78fca-e926-4e8e-81be-75b3ef5239a7/public_url"><img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="75" height="75"/></a>
 </div>
